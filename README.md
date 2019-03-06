@@ -94,8 +94,8 @@ Icons from Awesome-CV is based on  Font-Awesome 4, however, some icons are diffe
 
 Instead of providing single `.tff` file for importing, `.ttf` files provided by Font-Awesome 5 split all available fonts to different categories and cause include problem for Awesome-CV. If you still want to use icons from Font-Awesome5, you can follow steps below to merge `.ttf` files:
 
-1. install [FontForge](https://fontforge.github.io/en-US/) (also provided in `\tools`)
-2. open one of target fonts first in  fontforge
+1. install [FontForge](https://fontforge.github.io/en-US/)
+2. open one of target fonts first by fontforge
 3. `Element -> Merge Font` to merge another font
 4. `File -> Generate Font` to generate fonts
 

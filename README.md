@@ -1,5 +1,13 @@
 # This is resume modified from [Awesome-CV](https://github.com/posquit0/Awesome-CV) #
 
+## How does result looked like? ##
+
+* Check `\pdf` for more detail.
+
+| page 1 | page 2 |
+| - | - |
+| <img src="doc_source/page_1.png"> | <img src="doc_source/page_2.png"> |
+
 ## Environment ##
 
 * [Sharelatex  Docker Image](https://github.com/sharelatex/sharelatex-docker-image)

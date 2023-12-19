@@ -4,9 +4,9 @@
 
 * Check `\pdf` for more detail.
 
-| page 1 | page 2 |
-| - | - |
-| <img src="doc_source/page_1.png"> | <img src="doc_source/page_2.png"> |
+| page 1                            | page 2                            | page 3                            |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| <img src="doc_source/page_1.jpg"> | <img src="doc_source/page_2.jpg"> | <img src="doc_source/page_3.jpg"> |
 
 ## Environment ##
 
